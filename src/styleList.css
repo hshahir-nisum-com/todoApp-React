@@ -1,0 +1,25 @@
+.ul{
+    list-style-type: none;
+    align-items: flex-start;
+}
+.list{
+    background-color: aliceblue;
+    color: slategray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 40px;
+    padding: 5px;
+    margin: 7px;
+    /* align-items: center; */
+    width: 490px;
+    border-radius: 5px;
+    font-size: 40px;
+    text-align: start;
+    align-content: center;
+    margin-left: -40px;
+}
+.dltBtn{
+    float: right;
+    margin: 8px;
+    padding: 5px;
+    border-radius: 5px;
+}
